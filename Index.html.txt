@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CafeGitano</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>CafeGitano</h1>
+    <p>Café de especialidad</p>
+  </header>
+
+  <main>
+    <section id="productos">
+      <h2>Productos</h2>
+      <ul>
+        <li>Espresso - Q15</li>
+        <li>Capuchino - Q22</li>
+        <li>Latte - Q25</li>
+        <li>Pan dulce - Q10</li>
+      </ul>
+    </section>
+
+    <section id="horarios">
+      <h2>Horarios</h2>
+      <p>Lunes a viernes: 7:00 - 19:00</p>
+      <p>Sábados y domingos: 8:00 - 17:00</p>
+    </section>
+
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>Tel: 0000-0000</p>
+      <p>Correo: info@cafegitano.com</p>
+      <p>Dirección: Ciudad de Guatemala</p>
+    </section>
+  </main>
+
+  <footer><p>&copy; 2026 CafeGitano</p></footer>
+</body>
+</html>
